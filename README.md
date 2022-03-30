@@ -4,7 +4,7 @@
    modify it to alter its behavior and the manner in which it executes.
    
 -  I’m currently learning ReactJs.
--  You can reach me by contacting me on the following Email address: Abdelmonem4jobs@hotmail.com
+-  You can reach out to me by contacting me on the following Email address: Abdelmonem4jobs@hotmail.com
 
 <!---
 Abdelmonem1337er/Abdelmonem1337er is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
